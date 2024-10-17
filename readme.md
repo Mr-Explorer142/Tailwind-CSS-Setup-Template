@@ -1,1 +1,1 @@
-To start a quick Tailwind setup, just clone the repo and start building your design. Don't remember to change the given colors in "Tailwind.config.js" file. I just added that to show a demo. Do it now !
+To start a quick Tailwind setup, just clone the repo and start building your design. Don't forget to change the given colors in "Tailwind.config.js" file. I just added those colors to show a demo. Modify the settings according to your preference.
